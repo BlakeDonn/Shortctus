@@ -1,7 +1,7 @@
 
 
-| **Files** | **Highlight**|**Panes**|
-|----------------|---------------|----------------|
+| **Files** || **Highlight**||**Panes**|
+|----------------|---------------|---------------|---------------|----------------|
 | File search |Current line(s)|Navigate between panes |
 |`⌘ + t` *or* `⌘ +p`|`⌘ + l`|`⌘ + up/down/left/right key`|
 ||||
