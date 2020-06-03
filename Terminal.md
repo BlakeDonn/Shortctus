@@ -1,6 +1,6 @@
 |Terminal||
 |--|--|
-|Past command| up arrow |
+|Past command| `up arrow` |
 |All previous commands|`history`|
 |Clear command line| `control + u` |
 |Clear terminal window|`⌘ + k`|
