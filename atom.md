@@ -11,7 +11,7 @@
 |||`control + w`|
 
 <table>
-<tr><th>Files</th><th>Highlight</th></tr>
+<tr><th>Files</th><br /><th>Highlight</th></tr>
 <tr><td>
 
 |File search| `⌘ + t` *or* `⌘ +p` |
@@ -36,7 +36,7 @@
 |--|--|
 |Navigate between panes|`⌘ + up/down/left/right key`|
 |Split panes|``⌘ + k`, release keys, `up/down/left/right key`|
-|Close pane||`control + w`|
+|Close pane|`control + w`|
 
 </td><td>
 
