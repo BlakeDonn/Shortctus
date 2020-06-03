@@ -32,8 +32,9 @@
 <tr><td>
 
 |Close pane|`control + w`|
+|--|--|
 |Navigate between panes|`⌘ + up/down/left/right key`|
-|--|--|--|--|
+|--|--|
 |Split panes|``⌘ + k`, release keys, `up/down/left/right key`|
 
 
