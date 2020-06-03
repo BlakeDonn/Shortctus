@@ -21,9 +21,9 @@
 
 </td><td>
 
-|Current line(s)|`⌘ + l`|2|3|
-|--|--||--|--|
-|Current word|`⌘ + d`|d|f|
+|Current line(s)|`⌘ + l`|
+|--|--|
+|Current word|`⌘ + d`|
 
 </td></tr> </table>
 
