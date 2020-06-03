@@ -1,13 +1,16 @@
 
 
-| ## Files | ## Files|
-|------|------|
-| * File search |* File search|
-| ``` |```|
-| ⌘ + t or ⌘ + |⌘ + t or ⌘ + |
-| ``` |```|
+| **Files** | **Highlight**|**Panes**|
+|-----------|-----------|-----------|
+| File search |Current line(s)|Navigate between panes|
+| ``⌘ + t` *or* `⌘ +p`|`⌘ + l`|``⌘ + k`, ``⌘ + up/down/left/right key`|
+| Toggle file tree |Current word|Split panes|
+| ``⌘ + \` |``⌘ + d`|``⌘ + k`, release keys, `up/down/left/right key`|
+|||Close pane|
+|||`control + w`|
 
-* Toggle file tree
+*/
+Toggle file tree
 ```
 ⌘ + \
 ```
@@ -23,6 +26,7 @@
 ```
 ⌘ + d
 ```
+/*
 
 ## Panes
 
