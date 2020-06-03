@@ -1,10 +1,10 @@
 
 
 | **Files** | **Highlight**|**Panes**|
-|-----------|-----------|-----------|
-| File search ||Current line(s) ||Navigate between panes |
+|----------------|---------------|----------------|
+| File search |Current line(s)|Navigate between panes |
 |`⌘ + t` *or* `⌘ +p`|`⌘ + l`|`⌘ + up/down/left/right key`|
-|||||
+||||
 | Toggle file tree |Current word|Split panes|
 | ``⌘ + \` |``⌘ + d`|``⌘ + k`, release keys, `up/down/left/right key`|
 |||Close pane|
