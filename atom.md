@@ -22,7 +22,7 @@
 </td><td>
 
 |Current line(s)|`⌘ + l`|2|3|
-|--|--|
+|--|--||--|--|
 |Current word|`⌘ + d`|d|f|
 
 </td></tr> </table>
