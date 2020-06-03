@@ -27,60 +27,24 @@
 
 </td></tr> </table>
 
-<table>
-<tr><th>Panes</th><th>Editing Text</th></tr>
-<tr><td>
 
 
-|||
+
+|Panes||
 |--|--|
 |Navigate between panes|`⌘ + up/down/left/right key`|
 |Split panes|``⌘ + k`, release keys, `up/down/left/right key`|
 |Close pane|`control + w`|
 
-</td><td>
 
-|b|1|2|3|
-|--|--|--|--|
-|a|s|d|f|
 
-</td></tr> </table>
-
-*/
-Toggle file tree
-```
-⌘ + \
-```
-
-## Highlight
-
-* Current line(s)
-```
-⌘ + l
-```
-
-* Current word
-```
-⌘ + d
-```
-/*
-
-## Panes
-
-* Navigate between panes
-```
-⌘ + k, ⌘ + up/down/left/right key
-```
-
-* Split panes
-```
-⌘ + k, release keys, up/down/left/right key
-```
-
-* Close pane
-```
-control + w
-```
+|Editing Text||
+|--|--|
+|Duplicate current line|'shift + D'|
+|Join next line to end of current|''⌘ + j'|
+|Move current line up or down|'⌘ + control + up/down'|
+|Upper/lower case current word|``⌘ + k, ⌘ + u` , ``⌘ + k, ⌘ + l`|
+|[Transpose* characters](https://discuss.atom.io/t/why-do-we-need-feature-like-transpose-character/18090) | 'ctrl + t'|
 
 ## Editing text
 
@@ -103,7 +67,7 @@ control + w
 ```
 ⌘ + k, ⌘ + u
 
-⌘ + k, ⌘ + l
+⌘ + k, ⌘ + u
 ```
 
 * Transpose characters (switch location of character on each side of cursor)
