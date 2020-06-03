@@ -1,43 +1,15 @@
-## Past command
-```
-⬆️
-```
+|Terminal||
+|--|--|
+|Past command| up arrow |
+|All previous commands|`history`|
+|Clear command line| `control + u` |
+|Clear terminal window|⌘ + k|
+|New tab|⌘ + k|
+|Cycle through tab|control + tab|
+|Beginning or End of Line|`control + a` , `control + e`|
+|Speedy cursor (tabs through terminal text)|`option + left/right arrow|
 
-## All previous commands
-```
-type: history
-```
 
-## Clear command line
-
-```
-control + u
-```
-
-## Clear terminal window
-```
-⌘ + k
-```
-
-## New tab
-
-```
-⌘ + t
-```
-
-## Cycle through tab
-```
-control + tab
-```
-
-## Beginning or End of Line
-```
-B
-control + a  
-
-E
-control + e
-```
 
 
 ## Speedy cursor ( Kinda just tabs through terminal text)
@@ -47,5 +19,5 @@ option + ⬅️ || option ➡️
 
 ## Stop Process
 ```
-control + 
+control +
 ```
