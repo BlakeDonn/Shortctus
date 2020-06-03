@@ -27,6 +27,7 @@
 
 </td></tr> </table>
 
+<table>
 <tr><th>Panes</th><th>Editing Text</th></tr>
 <tr><td>
 
