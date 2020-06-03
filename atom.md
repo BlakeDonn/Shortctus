@@ -15,6 +15,7 @@
 <tr><td>
 
 |File search| `⌘ + t` *or* `⌘ +p` |
+|--|--|
 |Toggle file tree |`⌘ + \` |
 
 
