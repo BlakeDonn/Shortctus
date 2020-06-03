@@ -1,22 +1,13 @@
-<table>
-<tr><th>Files</th><th>Highlight</th></tr>
-<tr><td>
 
+|Files||
 |File search| `⌘ + t` *or* `⌘ +p` |
 |--|--|
 |Toggle file tree |`⌘ + \` |
 
-
-</td><td>
-
+|Highlight||
 |Current line(s)|`⌘ + l`|
 |--|--|
 |Current word|`⌘ + d`|
-
-</td></tr> </table>
-
-
-
 
 |Panes||
 |--|--|
@@ -25,8 +16,7 @@
 |Close pane    |`control + w`|
 
 
-
-|Editing Text||
+|Text||
 |--|--|
 |Duplicate current line|'shift + D'|
 |Join next line to end of current|''⌘ + j'|
