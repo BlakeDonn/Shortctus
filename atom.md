@@ -1,12 +1,12 @@
 
 |Files||
-|File search| `⌘ + t` *or* `⌘ +p` |
 |--|--|
+|File search| `⌘ + t` *or* `⌘ +p` |
 |Toggle file tree |`⌘ + \` |
 
 |Highlight||
-|Current line(s)|`⌘ + l`|
 |--|--|
+|Current line(s)|`⌘ + l`|
 |Current word|`⌘ + d`|
 
 |Panes||
