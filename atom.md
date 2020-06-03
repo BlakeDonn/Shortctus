@@ -22,7 +22,7 @@
 </td><td>
 
 |Current line(s)|`⌘ + l`|2|3|
-|--|--|--|--|
+|--|--|
 |Current word|`⌘ + d`|d|f|
 
 </td></tr> </table>
@@ -31,8 +31,9 @@
 <tr><th>Panes</th><th>Editing Text</th></tr>
 <tr><td>
 
-|--|--|--|--|
+
 |Close pane|`control + w`|
+|--|--|
 |Navigate between panes|`⌘ + up/down/left/right key`|
 |Split panes|``⌘ + k`, release keys, `up/down/left/right key`|
 
