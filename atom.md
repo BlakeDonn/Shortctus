@@ -11,28 +11,30 @@
 |||`control + w`|
 
 <table>
-<tr><th>**Files** </th><th>**Highlight**</th><th>**Panes**</th></tr>
+<tr><th>Files</th><th>Highlight</th></tr>
 <tr><td>
 
 |File search| `⌘ + t` *or* `⌘ +p` |
+|--|--|
 |Toggle file tree |`⌘ + \` |
 
 
 </td><td>
 
-|b|1|2|3|
+|Current line(s)|`⌘ + l`|2|3|
 |--|--|--|--|
-|a|s|d|f|
+|Current word|`⌘ + d`|d|f|
 
 </td></tr> </table>
 
-</td><td>
+<tr><th>Panes</th><th>Editing Text</th></tr>
+<tr><td>
 
-|b|1|2|3|
+|Close pane|`control + w`|
+|Navigate between panes|`⌘ + up/down/left/right key`|
 |--|--|--|--|
-|a|s|d|f|
+|Split panes|``⌘ + k`, release keys, `up/down/left/right key`|
 
-</td></tr> </table>
 
 </td><td>
 
