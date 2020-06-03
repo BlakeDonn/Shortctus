@@ -1,7 +1,7 @@
 
 
-| **Files** || **Highlight**||**Panes**|
-|----------------|---------------|---------------|---------------|----------------|
+| **Files** | **Highlight**|**Panes**|
+|----------------|---------------|----------------|
 | File search |Current line(s)|Navigate between panes |
 |`⌘ + t` *or* `⌘ +p`|`⌘ + l`|`⌘ + up/down/left/right key`|
 ||||
@@ -9,6 +9,38 @@
 | ``⌘ + \` |``⌘ + d`|``⌘ + k`, release keys, `up/down/left/right key`|
 |||Close pane|
 |||`control + w`|
+
+<table>
+<tr><th>**Files** </th><th>**Highlight**</th><th>**Panes**</th></tr>
+<tr><td>
+
+|File search|| `⌘ + t` *or* `⌘ +p` ||
+|Toggle file tree |`⌘ + \` ||
+
+
+</td><td>
+
+|b|1|2|3|
+|--|--|--|--|
+|a|s|d|f|
+
+</td></tr> </table>
+
+</td><td>
+
+|b|1|2|3|
+|--|--|--|--|
+|a|s|d|f|
+
+</td></tr> </table>
+
+</td><td>
+
+|b|1|2|3|
+|--|--|--|--|
+|a|s|d|f|
+
+</td></tr> </table>
 
 */
 Toggle file tree
