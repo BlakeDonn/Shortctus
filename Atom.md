@@ -1,7 +1,7 @@
 
 
 | ## Files | ## Files|
-
+|------|------|
 | * File search |* File search|
 | ``` |```|
 | ⌘ + t or ⌘ + |⌘ + t or ⌘ + |
