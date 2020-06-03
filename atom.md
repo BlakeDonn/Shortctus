@@ -20,7 +20,7 @@
 
 |Panes||
 |--------|--------|
-|Navigate between panes    |`⌘ + up/down/left/right key`|
+|Navigate between panes  |`⌘ + up/down/left/right key`|
 |Split panes    |``⌘ + k`, release keys, `up/down/left/right key`|
 |Close pane    |`control + w`|
 
