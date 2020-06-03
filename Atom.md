@@ -1,11 +1,11 @@
 
 
-## Files
+| ## Files | |## Files|
 
-* File search
-```
-⌘ + t || ⌘ +
-```
+| * File search ||* File search|
+| ``` ||```|
+| ⌘ + t or ⌘ + ||⌘ + t or ⌘ + |
+| ``` ||```|
 
 * Toggle file tree
 ```
