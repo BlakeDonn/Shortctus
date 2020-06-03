@@ -1,11 +1,11 @@
 
 
-| ## Files | |## Files|
+| ## Files | ## Files|
 
-| * File search ||* File search|
-| ``` ||```|
-| ⌘ + t or ⌘ + ||⌘ + t or ⌘ + |
-| ``` ||```|
+| * File search |* File search|
+| ``` |```|
+| ⌘ + t or ⌘ + |⌘ + t or ⌘ + |
+| ``` |```|
 
 * Toggle file tree
 ```
