@@ -11,8 +11,7 @@
 |||`control + w`|
 
 <table>
-<tr><th>Files</th>
-<th>Highlight</th></tr>
+<tr><th>Files</th><th>Highlight</th></tr>
 <tr><td>
 
 |File search| `⌘ + t` *or* `⌘ +p` |
