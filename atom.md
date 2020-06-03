@@ -14,8 +14,8 @@
 <tr><th>**Files** </th><th>**Highlight**</th><th>**Panes**</th></tr>
 <tr><td>
 
-|File search|| `⌘ + t` *or* `⌘ +p` ||
-|Toggle file tree |`⌘ + \` ||
+|File search| `⌘ + t` *or* `⌘ +p` |
+|Toggle file tree |`⌘ + \` |
 
 
 </td><td>
