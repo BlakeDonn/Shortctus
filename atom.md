@@ -57,7 +57,7 @@
 
 |||
 |--|--|
-|Find String in Current ©|`⌘ + F`|
+|Find String in Current File|`⌘ + F`|
 |Find String in All Project Files|`shift + ⌘ + F`|
 |Find Next Matching String|`⌘ + G`|
 |Find Previous Matching String ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎|`⌘ + D`|
