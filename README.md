@@ -56,12 +56,12 @@
 |Find String in current file|`⌘ + F`|
 |Find String in all project files|`shift + ⌘ + F`|
 |Find Next matching string|`⌘ + G`|
-|Find Previous matching string|`⌘ + D`|
 |Select All matching strings|`control + ⌘ + G`|
 |Change Tabs|`control + tab`|
 |Split Panes|`⌘ + K`, release, `direction`|
 |Navigate Split-Panes‎‎|`⌘ + K` ,release, `⌘ + direction`|
 |Toggle File Tree|`⌘ + \` |
+|Toggle Line Comments	⌘ + /|
 
 |Spectacle||
 |--|--|

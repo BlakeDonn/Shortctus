@@ -1,8 +1,8 @@
 |General Navigation||
 |--|--|
 |Toggle File Tree|`⌘ + \` |
-|Change Tabs|`control + tab`|
-|Project Search (tabs)| `⌘ + T` *or* `⌘ + P` |
+|Change Tabs|`⌘ + tab`|
+|Project Search (tabs)| `⌘ + T` *or* `⌘ + P`|
 |Split Panes|`⌘ + K`, release, `up/down/left/right arrow`|
 |Navigate Split-panes ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎|`⌘ + K` + release,  `⌘ + up/down/left/right arrow`|
 |Close Pane|`control + W`|
@@ -57,7 +57,7 @@
 
 |||
 |--|--|
-|Find String in Current File|`⌘ + F`|
+|Find String in Current ©|`⌘ + F`|
 |Find String in All Project Files|`shift + ⌘ + F`|
 |Find Next Matching String|`⌘ + G`|
 |Find Previous Matching String ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎|`⌘ + D`|
