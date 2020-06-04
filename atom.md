@@ -1,14 +1,3 @@
-
-
-|General Navigation||
-|--|--|
-|Change tabs|`⌘ + tab`|
-|File search| `⌘ + t` *or* `⌘ +p` |
-|Split panes|`⌘ + k`, release keys, `up/down/left/right arrow`|
-|Navigate splitpanes|`⌘ +k + ⌘ + up/down/left/right arrow`|
-|Close pane|`control + w`|
-|Toggle file tree|`⌘ + \` |
-
 <table>
 <tr><th>Code Navigation</th><th>Finding Code</th></tr>
 <tr><td>
@@ -41,7 +30,7 @@
 |Text Selection||
 |--|--|
 |Select to First/Last Character of Line|`shift + ⌘ + left/right arrow`|
-|Select to Same Position, Next/Previous Line|`shift up/down arrow`|
+|Select to Same Position, Next/Previous Line|`shift + up/down arrow`|
 |Select to top/bottom of file|`shift + ⌘ + up/down arrow`|
 |Select Current line|`⌘ + l`|
 |Select Current word|`⌘ + d`|
@@ -54,12 +43,19 @@
 |Join next line to end of current|`⌘ + j`|
 |Delete line|`shift + control + k`|
 |Cut to end of line|`control + k`|
-|Delete to Beginning of Word|`option backspace`|
+|Delete to Beginning of Word|`option + backspace`|
 |Delete to End of Word|`option + d`|
 |Upper/lower case current word|`⌘ + k, ⌘ + u` , `⌘ + k, ⌘ + l`|
 |[Transpose](https://discuss.atom.io/t/why-do-we-need-feature-like-transpose-character/18090) characters |`ctrl + t`|
 
-
+|General Navigation||
+|--|--|
+|Change tabs|`⌘ + tab`|
+|File search| `⌘ + t` *or* `⌘ +p` |
+|Split panes|`⌘ + k`, release keys, `up/down/left/right arrow`|
+|Navigate splitpanes|`⌘ +k + ⌘ + up/down/left/right arrow`|
+|Close pane|`control + w`|
+|Toggle file tree|`⌘ + \` |
 
 
 <table>
