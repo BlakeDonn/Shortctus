@@ -7,14 +7,11 @@
 |All Commands|`history`|
 |Tab through line|`option + left/right arrow`|
 |Move Insertion|`hold option + move pointer`|
-|Move Insertion beginning or end|`control + a` , `control + e`|
+|Move Insertion beginning or end|`control + A` , `control + E`|
 |Delete line|`control + u`|
 |Scroll to top , bottom|`fn + left` , `fn + right`|
 |Page Up, down|`fn + up` , `fn + down`|
-|Clear Terminal|`⌘ + k`|
-
-|||
-|--|--|
+|Clear Terminal|`⌘ + K`|
 |Select line of text|`triple-click line'|
 |Select a block|`hold option + drag cursor`|
 |Search|`⌘ + f`|
@@ -55,10 +52,6 @@
 |Duplicate Line|`shift + ⌘ + D`|
 |Delete Line|`shift + control + K`|
 |Delete Word|`option + backspace`|
-
-
-|||
-|--|--|
 |Go to Line|`control + G`|
 |Beginning of Line|`control + A`|
 |End of Line| `control + E`|
@@ -71,11 +64,10 @@
 |Find Previous Matching String|`⌘ + D`|
 |Select All Matching Strings|`control + ⌘ + G`|
 
-
 |Spectacle||
 |--|--|
-|Center|`option + ⌘ + c`|
-|Fullscreen|`option + ⌘ + f`|
+|Center|`option + ⌘ + C`|
+|Fullscreen|`option + ⌘ + F`|
 |Half|`option + ⌘ + direction`|
 |Third|`control + option + direction`|
 |Quarter(upper)|`control + ⌘ + l/r`|
