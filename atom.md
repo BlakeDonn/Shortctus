@@ -15,7 +15,7 @@
 |Find String in Current File|`⌘ + f`|
 |Find String in All Project Files|`shift + ⌘ + f`|
 |Find Next Matching String|`⌘ + g`|
-|Find Previous Matching String ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎|`⌘ + d`|
+|Find Previous Matching String ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎|`⌘ + d`|
 |Select All Matching Strings|`control + ⌘ + g`|
 |Replace String in Current File|`option + ⌘ + f`|
 
