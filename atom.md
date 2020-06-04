@@ -7,7 +7,7 @@
 |Move to End of Word|`option + f`|
 |Go to Matching Bracket|`control + m`|
 |Move to Top/bottom|`⌘ + up/down`|
-|Move to First/Last Character of Line ‎ ‎|`⌘ + left/right arrow`|
+|Move to First/Last Character of Line ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎|`⌘ + left/right arrow`|
 
 
 |Finding code||
@@ -15,7 +15,7 @@
 |Find String in Current File|`⌘ + f`|
 |Find String in All Project Files|`shift + ⌘ + f`|
 |Find Next Matching String|`⌘ + g`|
-|Find Previous Matching String ‎ ‎ ‎ ‎ ‎|`⌘ + d`|
+|Find Previous Matching String ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎|`⌘ + d`|
 |Select All Matching Strings|`control + ⌘ + g`|
 |Replace String in Current File|`option + ⌘ + f`|
 
@@ -34,7 +34,7 @@
 |--|--|
 |Move Current Line Up or Down|`⌘ + control + up/down`|
 |Duplicate Current Line|`shift + ⌘ + D`|
-|Join Next Line to End of Current ‎ ‎ ‎ ‎|`⌘ + j`|
+|Join Next Line to End of Current ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎|`⌘ + j`|
 |Delete Line|`shift + control + k`|
 |Cut to End of Line|`control + k`|
 |Delete to Beginning of Word|`option + backspace`|
@@ -47,7 +47,7 @@
 |Change Tabs|`⌘ + tab`|
 |File Search| `⌘ + t` *or* `⌘ +p` |
 |Split Panes|`⌘ + k`, release keys, `up/down/left/right arrow`|
-|Navigate Split-panes ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎|`⌘ +k + ⌘ + up/down/left/right arrow`|
+|Navigate Split-panes ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎|`⌘ +k + ⌘ + up/down/left/right arrow`|
 |Close Pane|`control + w`|
 |Toggle File Tree|`⌘ + \` |
 
