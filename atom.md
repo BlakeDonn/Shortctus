@@ -6,8 +6,8 @@
 |Move to Beginning of Word|`option + b`|
 |Move to End of Word|`option + f`|
 |Go to Matching Bracket|`control + m`|
-|Move to top/bottom|`⌘ + up/down`|
-|Move to First/Last Character of Line|`⌘ + left/right arrow`|
+|Move to Top/bottom|`⌘ + up/down`|
+|Move to First/Last Character of Line ‎ ‎|`⌘ + left/right arrow`|
 
 
 |Finding code||
@@ -15,7 +15,7 @@
 |Find String in Current File|`⌘ + f`|
 |Find String in All Project Files|`shift + ⌘ + f`|
 |Find Next Matching String|`⌘ + g`|
-|Find Previous Matching String|`⌘ + d`|
+|Find Previous Matching String ‎ ‎ ‎ ‎ ‎|`⌘ + d`|
 |Select All Matching Strings|`control + ⌘ + g`|
 |Replace String in Current File|`option + ⌘ + f`|
 
@@ -25,31 +25,31 @@
 |--|--|
 |Select to First/Last Character of Line|`shift + ⌘ + left/right arrow`|
 |Select to Same Spot, Next/Previous Line|`shift + up/down arrow`|
-|Select to top/bottom of file|`shift + ⌘ + up/down arrow`|
+|Select to Top/Bottom of File|`shift + ⌘ + up/down arrow`|
 |Select Current line|`⌘ + l`|
 |Select Current word|`⌘ + d`|
-|Toggle Line Comments|`⌘ + /`|aa
+|Toggle Line Comments|`⌘ + /`|
 
 |Text Editing||
 |--|--|
-|Move current line up or down|`⌘ + control + up/down`|
-|Duplicate current line|`shift + ⌘ + D`|
-|Join next line to end of current|`⌘ + j`|
-|Delete line|`shift + control + k`|
-|Cut to end of line|`control + k`|
+|Move Current Line Up or Down|`⌘ + control + up/down`|
+|Duplicate Current Line|`shift + ⌘ + D`|
+|Join Next Line to End of Current ‎ ‎ ‎ ‎|`⌘ + j`|
+|Delete Line|`shift + control + k`|
+|Cut to End of Line|`control + k`|
 |Delete to Beginning of Word|`option + backspace`|
 |Delete to End of Word|`option + d`|
-|Upper/lower case current word|`⌘ + k, ⌘ + u` , `⌘ + k, ⌘ + l`|
+|Upper/Lower Case Current Word|`⌘ + k, ⌘ + u` , `⌘ + k, ⌘ + l`|
 |[Transpose](https://discuss.atom.io/t/why-do-we-need-feature-like-transpose-character/18090) characters |`ctrl + t`|
 
-|General Navigation||
+|General Navigation ||
 |--|--|
-|Change tabs|`⌘ + tab`|
-|File search| `⌘ + t` *or* `⌘ +p` |
-|Split panes|`⌘ + k`, release keys, `up/down/left/right arrow`|
-|Navigate splitpanes|`⌘ +k + ⌘ + up/down/left/right arrow`|
-|Close pane|`control + w`|
-|Toggle file tree|`⌘ + \` |
+|Change Tabs ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎|`⌘ + tab`|
+|File Search| `⌘ + t` *or* `⌘ +p` |
+|Split Panes|`⌘ + k`, release keys, `up/down/left/right arrow`|
+|Navigate Split-panes|`⌘ +k + ⌘ + up/down/left/right arrow`|
+|Close Pane|`control + w`|
+|Toggle File Tree|`⌘ + \` |
 
 
 <table>
