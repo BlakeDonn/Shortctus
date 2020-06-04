@@ -61,7 +61,7 @@
 |Split Panes|`⌘ + K`, release, `direction`|
 |Navigate Split-Panes‎‎|`⌘ + K` ,release, `⌘ + direction`|
 |Toggle File Tree|`⌘ + \` |
-|Toggle Line Comments	⌘ + /|
+|Toggle Line Comments|`⌘ + /`|
 
 |Spectacle||
 |--|--|
