@@ -12,7 +12,7 @@
 |Scroll to top , bottom|`fn + left` , `fn + right`|
 |Page up, down|`fn + up` , `fn + down`|
 |Clear Terminal|`⌘ + K`|
-|Select line of text|`triple-click line'|
+|Select line of text|`triple-click line`|
 |Select a block|`hold option + drag cursor`|
 |Search|`⌘ + F`|
 |Find next, add shift for previous|`⌘ + G`|
