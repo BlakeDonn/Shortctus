@@ -1,11 +1,12 @@
 |General Navigation||
 |--|--|
+|Toggle File Tree|`⌘ + \` |
 |Change Tabs|`⌘ + tab`|
 |File Search| `⌘ + t` *or* `⌘ +p` |
 |Split Panes|`⌘ + k`, release keys, `up/down/left/right arrow`|
 |Navigate Split-panes ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎|`⌘ +k + ⌘ + up/down/left/right arrow`|
 |Close Pane|`control + w`|
-|Toggle File Tree|`⌘ + \` |
+
 
 <table>
 <tr><th>Text Selection</th><th>Text Editing</th></tr>
