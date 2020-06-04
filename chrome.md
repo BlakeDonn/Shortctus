@@ -30,7 +30,7 @@
 </td></tr> </table>
 
 <table>
-<tr><th>Misc</th><th>Address bar</th></tr>
+<tr><th>Misc‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‎‎‎</th><th>Address bar</th></tr>
 <tr><td>
 
 |||
