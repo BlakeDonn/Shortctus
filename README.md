@@ -8,17 +8,17 @@
 |Tab through line|`option + left/right arrow`|
 |Move Insertion|`hold option + move pointer`|
 |Move Insertion beginning or end|`control + A` , `control + E`|
-|Delete line|`control + u`|
+|Delete line|`control + U`|
 |Scroll to top , bottom|`fn + left` , `fn + right`|
 |Page up, down|`fn + up` , `fn + down`|
 |Clear Terminal|`⌘ + K`|
 |Select line of text|`triple-click line'|
 |Select a block|`hold option + drag cursor`|
-|Search|`⌘ + f`|
-|Find next, add shift for previous|`⌘ + g`|
+|Search|`⌘ + F`|
+|Find next, add shift for previous|`⌘ + G`|
 |Terminal preferences|`⌘ + , + c`|
-|New Tab|`⌘ + k`|
-|Split Window Into Two Panes|`⌘ + d`|
+|New Tab|`⌘ + K`|
+|Split Window Into Two Panes|`⌘ + D`|
 
 |Chrome||
 |--|--|
@@ -40,29 +40,28 @@
 
 |||
 |--|--|
-|Toggle File Tree|`⌘ + \` |
-|Change Tabs|`⌘ + tab`|
-|Split Panes|`⌘ + K`, release keys, `direction`|
-|Navigate Split-Panes‎‎|`⌘ + K + ⌘ + direction`|
-|Close Pane|`control + W`|
-|Select Current line, word|`⌘ + L`,`⌘ + D`|
-|Select First/Last character of line|`shift + ⌘ + direction`|
-|Select to same spot add ⌘ for all|`shift + up/down arrows`|
-|Move Line|`⌘ + control + up/down`|
-|Duplicate Line|`shift + ⌘ + D`|
-|Delete Line|`shift + control + K`|
-|Delete Word|`option + backspace`|
-|Go to Line|`control + G`|
 |Beginning of Line|`control + A`|
 |End of Line| `control + E`|
 |Beginning of Word|`option + B`|
 |End of Word|`option + F`|
-|Matching Bracket|`control + M`|
+|Go to Matching Brackets|`control + M`|
+|Go to Line|`control + G`|
+|Select Current line, word|`⌘ + L`,`⌘ + D`|
+|Select to First/Last character of line|`shift + ⌘ + direction`|
+|Select to same spot diff line, add ⌘ for all|`shift + up/down arrows`|
+|Move Line|`⌘ + control + up/down`|
+|Duplicate Line|`shift + ⌘ + D`|
+|Delete Line|`shift + control + K`|
+|Delete Word|`option + backspace`|
 |Find String in current file|`⌘ + F`|
 |Find String in all project files|`shift + ⌘ + F`|
 |Find Next matching string|`⌘ + G`|
 |Find Previous matching string|`⌘ + D`|
 |Select All matching strings|`control + ⌘ + G`|
+|Change Tabs|`⌘ + tab`|
+|Split Panes|`⌘ + K`, release, `direction`|
+|Navigate Split-Panes‎‎|`⌘ + K` ,release, `⌘ + direction`|
+|Toggle File Tree|`⌘ + \` |
 
 |Spectacle||
 |--|--|
