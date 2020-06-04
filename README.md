@@ -34,7 +34,7 @@
 |Open URL in new tab|`⌘ + Enter`|
 |Refresh| `⌘ + R`|
 |Toggle Mac Dock|`option + ⌘ + D`|
-
+|Toggle bookmark bar‏‏‎|`⌘ + shift + B`‏‏‎|
 
 </td><td>
 
