@@ -1,8 +1,4 @@
-<table>
-<tr><th>Code Navigation</th><th>Finding Code</th></tr>
-<tr><td>
-
-|||
+|Code Navigation||
 |--|--|
 |Go to Line|`control + g`|
 |Move to Beginning of Line|`control + a`|
@@ -14,9 +10,7 @@
 |Move to First/Last Character of Line|`⌘ + left/right arrow`|
 
 
-</td><td>
-
-|||
+|Finding code||
 |--|--|
 |Find String in Current File|`⌘ + f`|
 |Find String in All Project Files|`shift + ⌘ + f`|
@@ -25,7 +19,7 @@
 |Select All Matching Strings|`control + ⌘ + g`|
 |Replace String in Current File|`option + ⌘ + f`|
 
-</td></tr> </table>
+
 
 |Text Selection||
 |--|--|
