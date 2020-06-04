@@ -6,7 +6,7 @@
 |--|--|
 |Past Command| `up arrow` |
 |All Previous Commands|`history`|
-|Beginning or End of Line|`control + A` , control + E`|
+|Beginning or End of Line|`control + A` , `control + E`|
 |Tab through Line|`option + left/right arrow`|
 
 </td><td>
