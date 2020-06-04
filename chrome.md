@@ -2,7 +2,7 @@
 <tr><th>Navigation</th><th>Current Page</th></tr>
 <tr><td>
 
-|Navigation||
+|||
 |--|--|
 |New window| `⌘ + N`|
 |New tab| `⌘+T`|
@@ -15,7 +15,7 @@
 
 </td><td>
 
-|Current page||
+|||
 |--|--|
 |Refresh|`⌘ + R`|
 |Stop refresh|`⌘ + ,`|
@@ -33,7 +33,7 @@
 <tr><th>Misc</th><th>Address bar</th></tr>
 <tr><td>
 
-|Misc||
+|||
 |--|--|
 |Toggle bookmark bar|`⌘ + Shift + B`|
 |History|`⌘ + Y`|
@@ -42,7 +42,7 @@
 
 </td><td>
 
-|Address bar||
+|||
 |--|--|
 |Open URL in new tab|`⌘ + Enter`|
 |Highlight URL in address bar|`⌘ + L`|
