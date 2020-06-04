@@ -13,12 +13,13 @@
 
 |||
 |--|--|
-|Select to First/Last Character of Line|`shift + ⌘ + left/right arrow`|
-|Select Same Spot, Next/Previous Line ‎ ‎|`shift + up/down arrow`|
-|Select to Top/Bottom of File|`shift + ⌘ + up/down arrow`|
 |Select Current line|`⌘ + l`|
 |Select Current word|`⌘ + d`|
 |Toggle Line Comments|`⌘ + /`|
+|Select to First/Last Character of Line|`shift + ⌘ + left/right arrow`|
+|Select Same Spot, Next/Previous Line ‎ ‎|`shift + up/down arrow`|
+|Select to Top/Bottom of File|`shift + ⌘ + up/down arrow`|
+
 
 </td><td>
 
@@ -28,9 +29,9 @@
 |Duplicate Current Line|`shift + ⌘ + D`|
 |Join Next Line to End of Current ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎|`⌘ + j`|
 |Delete Line|`shift + control + k`|
-|Cut to End of Line|`control + k`|
 |Delete to Beginning of Word|`option + backspace`|
 |Delete to End of Word|`option + d`|
+|Cut to End of Line|`control + k`|
 |Upper/Lower Case Current Word|`⌘ + k, ⌘ + u` , `⌘ + k, ⌘ + l`|
 |[Transpose](https://discuss.atom.io/t/why-do-we-need-feature-like-transpose-character/18090) characters |`ctrl + t`|
 
