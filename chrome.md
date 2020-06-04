@@ -5,7 +5,7 @@
 |||
 |--|--|
 |New window| `⌘ + N`|
-|Minimize window|`⌘ + m`|
+|Minimize window|`⌘ + M`|
 |Close window| `⌘ + Shift + W` |
 |New tab| `⌘ + T`|
 |Close tab| `⌘ + W`|
@@ -13,7 +13,7 @@
 |Move to next tab (right)|`control + tab`|
 |Move to next tab (left)|`control + shift + tab`|
 |Move specific tab|`⌘ + (number) (1-8)`|
-|Toggle full-screen|`⌘ + D`|
+|Toggle full-screen|`control + ⌘ + F`|
 
 </td><td>
 
@@ -25,11 +25,11 @@
 |Stop refresh|`⌘ + ,`|
 |Find on page|`⌘ + F`|
 |Scroll down|`spacebar`|
-|Top of page|`home`|
-|Bottom of page|`end`|
+|Top of page|`fn + up`|
+|Bottom of page|`fn + down`|
 |Bookmark|`⌘ + D`|
-|Toggle bookmark bar‏‏‎|`⌘ + Shift + B`‏‏‎|
+|Toggle bookmark bar‏‏‎|`⌘ + shift + B`‏‏‎|
 |History|`⌘ + Y`|
-|Downloads|`⌘ + Shift + J`|
+|Downloads|`⌘ + shift + J`|
 
 </td></tr> </table>

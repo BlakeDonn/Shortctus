@@ -2,8 +2,8 @@ Assuming no user-specific changes
 
 |Spectacle||
 |--|--|
-|Next / Previous display|`control + option + ⌘ + left/right arrow`
-|Center|`option + ⌘ + C``|
+|Next / Previous display|`control + option + ⌘ + left/right arrow`|
+|Center|`option + ⌘ + C`|
 |Fullscreen|`option + ⌘ + F`|
 |Half window|`option + ⌘ + left/right/up/down arrow`|
 |Third window|`control + option + left/right arrow`|
