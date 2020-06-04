@@ -19,7 +19,7 @@
 
 |||
 |--|--|
-|Highlight URL address bar|`⌘ + L`|
+|Highlight URL bar|`⌘ + L`|
 |Open URL in new tab|`⌘ + Enter`|
 |Refresh|`⌘ + R`|
 |Stop refresh|`⌘ + ,`|
