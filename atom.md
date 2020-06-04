@@ -18,7 +18,7 @@
 |Select Current word|`⌘ + d`|
 |Toggle Line Comments|`⌘ + /`|
 |Select to First/Last Character of Line|`shift + ⌘ + left/right arrow`|
-|Select Same Spot, Next/Previous Line ‎ ‎|`shift + up/down arrow`|
+|Select Same Spot, Next/Previous Line ‎ ‎|`shift + up/down arrows`|
 |Select to Top/Bottom of File|`shift + ⌘ + up/down arrow`|
 
 
