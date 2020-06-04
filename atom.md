@@ -1,13 +1,4 @@
 
-|Files||
-|--|--|
-|File search| `⌘ + t` *or* `⌘ +p` |
-|Toggle file tree |`⌘ + \` |
-
-|Highlight||
-|--|--|
-|Current line(s)|`⌘ + l`|
-|Current word|`⌘ + d`|
 
 |Panes||
 |--|--|
@@ -23,3 +14,21 @@
 |Move current line up or down|`⌘ + control + up/down`|
 |Upper/lower case current word|`⌘ + k, ⌘ + u` , `⌘ + k, ⌘ + l`|
 |[Transpose](https://discuss.atom.io/t/why-do-we-need-feature-like-transpose-character/18090) characters | `ctrl + t`|
+
+<table>
+<tr><th>Navigation</th><th>Current Page</th></tr>
+<tr><td>
+
+|Files||
+|--|--|
+|File search| `⌘ + t` *or* `⌘ +p` |
+|Toggle file tree |`⌘ + \` |
+
+</td><td>
+
+|Highlight||
+|--|--|
+|Current line(s)|`⌘ + l`|
+|Current word|`⌘ + d`|
+
+</td></tr> </table>
