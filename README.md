@@ -70,7 +70,7 @@
 |Half|`option + ⌘ + direction`|
 |Third|`control + option + direction`|
 |Quarter(upper)|`control + ⌘ + l/r`|
-|Quarter(lower)|`control + shift + ⌘ + l/r|
+|Quarter(lower)|`control + shift + ⌘ + l/r`|
 |Larger or Smaller window|`control + option + shift + left/right arrow`|
 
 </td></tr> </table>
