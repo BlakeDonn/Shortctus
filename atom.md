@@ -24,7 +24,7 @@
 |Text Selection||
 |--|--|
 |Select to First/Last Character of Line|`shift + ⌘ + left/right arrow`|
-|Select to Same Position, Next/Previous Line|`shift + up/down arrow`|
+|Select to Same Spot, Next/Previous Line|`shift + up/down arrow`|
 |Select to top/bottom of file|`shift + ⌘ + up/down arrow`|
 |Select Current line|`⌘ + l`|
 |Select Current word|`⌘ + d`|
