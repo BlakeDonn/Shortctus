@@ -2,7 +2,7 @@
 <tr><th>Navigate Command Line</th><th>Edit Command Line</th></tr>
 <tr><td>
 
-|Command Line||
+|||
 |--|--|
 |Past Command| `up arrow` |
 |All Previous Commands|`history`|
