@@ -14,7 +14,7 @@
 |Open URL in new tab|`⌘ + Enter`|
 |Highlight URL in address bar|`⌘ + L`|
 
-|Current page|
+|Current page||
 |--|--|
 |Refresh|`⌘ + R`|
 |Stop refresh|`⌘ + ,`|
