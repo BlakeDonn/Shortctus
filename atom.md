@@ -7,7 +7,7 @@
 |Move to End of Word|`option + f`|
 |Go to Matching Bracket|`control + m`|
 |Move to Top/bottom|`⌘ + up/down`|
-|Move to First/Last Character of Line ‎ ‎ ‎ ‎ ‎|`⌘ + left/right arrow`|
+|Move to First/Last Character of Line ‎ ‎ ‎|`⌘ + left/right arrow`|
 
 
 |Finding code||
@@ -24,7 +24,7 @@
 |Text Selection||
 |--|--|
 |Select to First/Last Character of Line|`shift + ⌘ + left/right arrow`|
-|Select Same Spot, Next/Previous Line|`shift + up/down arrow`|
+|Select Same Spot, Next/Previous Line ‎ ‎|`shift + up/down arrow`|
 |Select to Top/Bottom of File|`shift + ⌘ + up/down arrow`|
 |Select Current line|`⌘ + l`|
 |Select Current word|`⌘ + d`|
