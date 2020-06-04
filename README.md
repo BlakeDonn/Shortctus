@@ -23,21 +23,6 @@
 |New Tab|`⌘ + k`|
 |Split Window Into Two Panes|`⌘ + d`|
 
-|Chrome||
-|--|--|
-|New Window|`⌘ + N`|
-|Minimize Window|`⌘ + M`|
-|Close window	|`⌘ + Shift + W`|
-|New Tab|`⌘ + T`|
-|Close Tab|`⌘ + W`|
-|Move Tabs|`control + tab`|
-|Move specific tab|`⌘ + (number) (1-8)`|
-|Full Screen|`⌘ + D`|
-|Select URL|`⌘ L`|
-|Open URL in new tab|`⌘ + Enter`|
-|Refresh| `⌘ + R`|
-|Toggle Mac Dock|`option + ⌘ + D`|
-
 </td><td>
 
 |||
@@ -71,3 +56,19 @@
 |Select All Matching Strings|`control + ⌘ + G`|
 
 </td></tr> </table>
+
+
+|Chrome||
+|--|--|
+|New Window|`⌘ + N`|
+|Minimize Window|`⌘ + M`|
+|Close window	|`⌘ + Shift + W`|
+|New Tab|`⌘ + T`|
+|Close Tab|`⌘ + W`|
+|Move Tabs|`control + tab`|
+|Move specific tab|`⌘ + (number) (1-8)`|
+|Full Screen|`⌘ + D`|
+|Select URL|`⌘ L`|
+|Open URL in new tab|`⌘ + Enter`|
+|Refresh| `⌘ + R`|
+|Toggle Mac Dock|`option + ⌘ + D`|
