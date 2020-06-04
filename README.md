@@ -59,7 +59,7 @@
 |Select All matching strings|`control + ⌘ + G`|
 |Change Tabs|`control + tab`|
 |Split Panes|`⌘ + K`, release, `direction`|
-|Navigate Split-Panes‎‎|`⌘ + K` ,release, `⌘ + direction`|
+|Navigate Split-Panes‎‎|`⌘ + K + direction`|
 |Toggle File Tree|`⌘ + \` |
 |Toggle Line Comments|`⌘ + /`|
 
