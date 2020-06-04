@@ -1,4 +1,4 @@
-|General Navigation||
+|General Navigation ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎||
 |--|--|
 |Change Tabs|`⌘ + tab`|
 |File Search| `⌘ + t` *or* `⌘ +p` |
