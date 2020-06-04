@@ -40,8 +40,8 @@
 
 |||
 |--|--|
-|Beginning of Line|`control + A` pr `⌘ + left`|
-|End of Line| `control + E` or `⌘ + right`|
+|Beginning of Line|`control + A` `⌘ + left`|
+|End of Line| `control + E` `⌘ + right`|
 |Beginning of Word|`option + B`|
 |End of Word|`option + F`|
 |Go to Matching Brackets|`control + M`|
