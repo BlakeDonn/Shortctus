@@ -26,6 +26,7 @@
 </td></tr> </table>
 
 <br />
+<br />
 
 <table>
 <tr><th>Navigate Terminal Window</th><th>Select Terminal Window</th></tr>
@@ -57,6 +58,9 @@
 |Character Viewer|`control + ⌘ + space`|
 
 </td></tr> </table>
+
+<br />
+<br />
 
 <table>
 <tr><th>Tabs</th><th>Misc</th></tr>
