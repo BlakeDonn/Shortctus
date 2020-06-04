@@ -63,8 +63,17 @@
 <br />
 
 <table>
-<tr><th>Tabs</th><th>Misc</th></tr>
+<tr><th>Misc</th><th>Tabs</th></tr>
 <tr><td>
+
+|||
+|--|--|
+|Open Terminal preferences|`⌘ + , + c`|
+|Stop Process| `control + c`|
+|Make Fonts Bigger|`⌘ + (+)`|
+|Make Fonts Smaller|`⌘ + (-)`|
+|Toggle full screen|`control + ⌘ + f`|
+|Reverse search command history|`control + r`|
 
 |||
 |--|--|
@@ -81,13 +90,6 @@
 
 </td><td>
 
-|||
-|--|--|
-|Open Terminal preferences|`⌘ + , + c`|
-|Stop Process| `control + c`|
-|Make Fonts Bigger|`⌘ + (+)`|
-|Make Fonts Smaller|`⌘ + (-)`|
-|Toggle full screen|`control + ⌘ + f`|
-|Reverse search command history|`control + r`|
+
 
 </td></tr> </table>
