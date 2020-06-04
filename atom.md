@@ -1,4 +1,9 @@
-|Code Navigation||
+
+<table>
+<tr><th>Code Navigation</th><th>Finding code</th></tr>
+<tr><td>
+
+|||
 |--|--|
 |Go to Line|`control + g`|
 |Move to Beginning of Line|`control + a`|
@@ -9,8 +14,9 @@
 |Move to Top/bottom|`⌘ + up/down`|
 |Move to First/Last Character of Line ‎ ‎ ‎|`⌘ + left/right arrow`|
 
+</td><td>
 
-|Finding code||
+|||
 |--|--|
 |Find String in Current File|`⌘ + f`|
 |Find String in All Project Files|`shift + ⌘ + f`|
@@ -19,9 +25,13 @@
 |Select All Matching Strings|`control + ⌘ + g`|
 |Replace String in Current File|`option + ⌘ + f`|
 
+</td></tr> </table>
 
+<table>
+<tr><th>Text Selection</th><th>Text Editing</th></tr>
+<tr><td>
 
-|Text Selection||
+|||
 |--|--|
 |Select to First/Last Character of Line|`shift + ⌘ + left/right arrow`|
 |Select Same Spot, Next/Previous Line ‎ ‎|`shift + up/down arrow`|
@@ -30,7 +40,9 @@
 |Select Current word|`⌘ + d`|
 |Toggle Line Comments|`⌘ + /`|
 
-|Text Editing||
+</td><td>
+
+|||
 |--|--|
 |Move Current Line Up or Down|`⌘ + control + up/down`|
 |Duplicate Current Line|`shift + ⌘ + D`|
@@ -42,7 +54,9 @@
 |Upper/Lower Case Current Word|`⌘ + k, ⌘ + u` , `⌘ + k, ⌘ + l`|
 |[Transpose](https://discuss.atom.io/t/why-do-we-need-feature-like-transpose-character/18090) characters |`ctrl + t`|
 
-|General Navigation ||
+</td></tr> </table>
+
+|General Navigation||
 |--|--|
 |Change Tabs|`⌘ + tab`|
 |File Search| `⌘ + t` *or* `⌘ +p` |
