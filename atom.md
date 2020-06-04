@@ -24,7 +24,7 @@
 |Text Selection||
 |--|--|
 |Select to First/Last Character of Line|`shift + ⌘ + left/right arrow`|
-|Select to Same Spot, Next/Previous Line|`shift + up/down arrow`|
+|Select Same Spot, Next/Previous Line|`shift + up/down arrow`|
 |Select to Top/Bottom of File|`shift + ⌘ + up/down arrow`|
 |Select Current line|`⌘ + l`|
 |Select Current word|`⌘ + d`|
@@ -47,7 +47,7 @@
 |Change Tabs|`⌘ + tab`|
 |File Search| `⌘ + t` *or* `⌘ +p` |
 |Split Panes|`⌘ + k`, release keys, `up/down/left/right arrow`|
-|Navigate Split-panes ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎|`⌘ +k + ⌘ + up/down/left/right arrow`|
+|Navigate Split-panes ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎|`⌘ +k + ⌘ + up/down/left/right arrow`|
 |Close Pane|`control + w`|
 |Toggle File Tree|`⌘ + \` |
 
