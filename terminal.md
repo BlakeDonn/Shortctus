@@ -75,6 +75,8 @@
 |Toggle full screen|`control + ⌘ + f`|
 |Reverse search command history|`control + r`|
 
+</td><td>
+
 |||
 |--|--|
 |New Tab|`⌘ + k`|
@@ -87,9 +89,6 @@
 |Split Window Into Two Panes|`⌘ + d`|
 |Close Split Pane|`shift + ⌘ + d`|
 |Show or Hide Tab Bar|`shift + ⌘ + t`|
-
-</td><td>
-
 
 
 </td></tr> </table>
