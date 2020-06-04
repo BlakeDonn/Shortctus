@@ -25,6 +25,8 @@
 
 </td></tr> </table>
 
+<br />
+
 <table>
 <tr><th>Navigate Terminal Window</th><th>Select Terminal Window</th></tr>
 <tr><td>
