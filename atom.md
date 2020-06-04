@@ -3,7 +3,7 @@
 |Toggle File Tree|`⌘ + \` |
 |Change Tabs|`⌘ + tab`|
 |Project Search (tabs)| `⌘ + T` *or* `⌘ + P` |
-|Split Panes|`⌘ + K`, release keys, `up/down/left/right arrow`|
+|Split Panes|`⌘ + K`, release, `up/down/left/right arrow`|
 |Navigate Split-panes ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎|`⌘ + K` + release keys ⌘ + `up/down/left/right arrow`|
 |Close Pane|`control + W`|
 
