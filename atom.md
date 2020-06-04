@@ -50,17 +50,3 @@
 |Navigate Split-panes ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎|`⌘ +k + ⌘ + up/down/left/right arrow`|
 |Close Pane|`control + w`|
 |Toggle File Tree|`⌘ + \` |
-
-
-<table>
-<tr><th>Highlight</th><th>Files</th></tr>
-<tr><td>
-
-
-
-
-</td><td>
-
-
-
-</td></tr> </table>
