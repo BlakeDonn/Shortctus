@@ -56,7 +56,11 @@
 
 </td></tr> </table>
 
-|Tabs||
+<table>
+<tr><th>Tabs</th><th>Misc</th></tr>
+<tr><td>
+
+|||
 |--|--|
 |New Tab|`⌘ + k`|
 |New Tab with Same Command|`control + ⌘ + n`|
@@ -69,8 +73,9 @@
 |Close Split Pane|`shift + ⌘ + d`|
 |Show or Hide Tab Bar|`shift + ⌘ + t`|
 
+</td><td>
 
-|Misc||
+|||
 |--|--|
 |Open Terminal preferences|`⌘ + , + c`|
 |Stop Process| `control + c`|
@@ -78,3 +83,5 @@
 |Make Fonts Smaller|`⌘ + (-)`|
 |Toggle full screen|`control + ⌘ + f`|
 |Reverse search command history|`control + r`|
+
+</td></tr> </table>
