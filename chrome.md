@@ -1,3 +1,7 @@
+<table>
+<tr><th>Navigation</th><th>Current Page</th></tr>
+<tr><td>
+
 |Navigation||
 |--|--|
 |New window| `⌘ + N`|
@@ -9,10 +13,7 @@
 |Close window| `⌘ + Shift + W` |
 |Close tab| `⌘ + W`|
 
-|Address bar||
-|--|--|
-|Open URL in new tab|`⌘ + Enter`|
-|Highlight URL in address bar|`⌘ + L`|
+</td><td>
 
 |Current page||
 |--|--|
@@ -25,9 +26,25 @@
 |Top of page|`home`|
 |Bottom of page|`end`|
 
+
+</td></tr> </table>
+
+<table>
+<tr><th>Misc</th><th>Address bar</th></tr>
+<tr><td>
+
 |Misc||
 |--|--|
 |Toggle bookmark bar|`⌘ + Shift + B`|
 |History|`⌘ + Y`|
 |Downloads|`⌘ + Shift + J`|
 |Minimize window|`⌘ + m`|
+
+</td><td>
+
+|Address bar||
+|--|--|
+|Open URL in new tab|`⌘ + Enter`|
+|Highlight URL in address bar|`⌘ + L`|
+
+</td></tr> </table>
