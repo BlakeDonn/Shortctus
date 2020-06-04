@@ -10,7 +10,7 @@
 |Move Insertion beginning or end|`control + A` , `control + E`|
 |Delete line|`control + u`|
 |Scroll to top , bottom|`fn + left` , `fn + right`|
-|Page Up, down|`fn + up` , `fn + down`|
+|Page up, down|`fn + up` , `fn + down`|
 |Clear Terminal|`⌘ + K`|
 |Select line of text|`triple-click line'|
 |Select a block|`hold option + drag cursor`|
@@ -24,7 +24,7 @@
 |--|--|
 |New Window|`⌘ + N`|
 |Minimize Window|`⌘ + M`|
-|Close window	|`⌘ + Shift + W`|
+|Close Window	|`⌘ + Shift + W`|
 |New Tab|`⌘ + T`|
 |Close Tab|`⌘ + W`|
 |Move Tabs|`control + tab`|
@@ -33,8 +33,8 @@
 |Select URL|`⌘ L`|
 |Open URL in new tab|`⌘ + Enter`|
 |Refresh| `⌘ + R`|
-|Toggle Mac Dock|`option + ⌘ + D`|
 |Toggle bookmark bar‏‏‎|`⌘ + shift + B`‏‏‎|
+|Toggle Mac Dock|`option + ⌘ + D`|
 
 </td><td>
 
@@ -43,12 +43,12 @@
 |Toggle File Tree|`⌘ + \` |
 |Change Tabs|`⌘ + tab`|
 |Split Panes|`⌘ + K`, release keys, `direction`|
-|Navigate Split-panes‎‎|`⌘ + K + ⌘ + direction`|
+|Navigate Split-Panes‎‎|`⌘ + K + ⌘ + direction`|
 |Close Pane|`control + W`|
-|Select Current Line, word|`⌘ + L`,`⌘ + D`|
-|Select First/Last Character of Line|`shift + ⌘ + direction`|
+|Select Current line, word|`⌘ + L`,`⌘ + D`|
+|Select First/Last character of line|`shift + ⌘ + direction`|
 |Select to same spot add ⌘ for all|`shift + up/down arrows`|
-|Move line|`⌘ + control + up/down`|
+|Move Line|`⌘ + control + up/down`|
 |Duplicate Line|`shift + ⌘ + D`|
 |Delete Line|`shift + control + K`|
 |Delete Word|`option + backspace`|
@@ -58,11 +58,11 @@
 |Beginning of Word|`option + B`|
 |End of Word|`option + F`|
 |Matching Bracket|`control + M`|
-|Find String in Current File|`⌘ + F`|
-|Find String in All Project Files|`shift + ⌘ + F`|
-|Find Next Matching String|`⌘ + G`|
-|Find Previous Matching String|`⌘ + D`|
-|Select All Matching Strings|`control + ⌘ + G`|
+|Find String in current file|`⌘ + F`|
+|Find String in all project files|`shift + ⌘ + F`|
+|Find Next matching string|`⌘ + G`|
+|Find Previous matching string|`⌘ + D`|
+|Select All matching strings|`control + ⌘ + G`|
 
 |Spectacle||
 |--|--|
