@@ -40,12 +40,12 @@
 
 |||
 |--|--|
-|Beginning of Line|`control + A`|
-|End of Line| `control + E`|
+|Beginning of Line|`control + A` pr `⌘ + left`|
+|End of Line| `control + E` or `⌘ + right`|
 |Beginning of Word|`option + B`|
 |End of Word|`option + F`|
 |Go to Matching Brackets|`control + M`|
-|Go to Line|`control + G`|
+|Go to Specific Line|`control + G`|
 |Select Current line, word|`⌘ + L`,`⌘ + D`|
 |Select to First/Last character of line|`shift + ⌘ + direction`|
 |Select to same spot diff line, add ⌘ for all|`shift + up/down arrows`|
