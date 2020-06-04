@@ -1,3 +1,11 @@
+|General Navigation||
+|--|--|
+|Change Tabs|`⌘ + tab`|
+|File Search| `⌘ + t` *or* `⌘ +p` |
+|Split Panes|`⌘ + k`, release keys, `up/down/left/right arrow`|
+|Navigate Split-panes ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎|`⌘ +k + ⌘ + up/down/left/right arrow`|
+|Close Pane|`control + w`|
+|Toggle File Tree|`⌘ + \` |
 
 <table>
 <tr><th>Code Navigation</th><th>Finding code</th></tr>
@@ -55,12 +63,3 @@
 |[Transpose](https://discuss.atom.io/t/why-do-we-need-feature-like-transpose-character/18090) characters |`ctrl + t`|
 
 </td></tr> </table>
-
-|General Navigation||
-|--|--|
-|Change Tabs|`⌘ + tab`|
-|File Search| `⌘ + t` *or* `⌘ +p` |
-|Split Panes|`⌘ + k`, release keys, `up/down/left/right arrow`|
-|Navigate Split-panes ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎|`⌘ +k + ⌘ + up/down/left/right arrow`|
-|Close Pane|`control + w`|
-|Toggle File Tree|`⌘ + \` |
