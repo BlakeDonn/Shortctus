@@ -24,10 +24,10 @@
 |Refresh|`⌘ + R`|
 |Stop refresh|`⌘ + ,`|
 |Find on page|`⌘ + F`|
-|Bookmark|`⌘ + D`|
 |Scroll down|`spacebar`|
 |Top of page|`home`|
 |Bottom of page|`end`|
+|Bookmark|`⌘ + D`|
 |Toggle bookmark bar‏‏‎|`⌘ + Shift + B`‏‏‎|
 |History|`⌘ + Y`|
 |Downloads|`⌘ + Shift + J`|
