@@ -16,17 +16,17 @@
 |[Transpose](https://discuss.atom.io/t/why-do-we-need-feature-like-transpose-character/18090) characters | `ctrl + t`|
 
 <table>
-<tr><th>Navigation</th><th>Current Page</th></tr>
+<tr><th>Files</th><th>Highlight</th></tr>
 <tr><td>
 
-|Files||
+|||
 |--|--|
 |File search| `⌘ + t` *or* `⌘ +p` |
 |Toggle file tree |`⌘ + \` |
 
 </td><td>
 
-|Highlight||
+|||
 |--|--|
 |Current line(s)|`⌘ + l`|
 |Current word|`⌘ + d`|
