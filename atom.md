@@ -7,7 +7,7 @@
 |Move to End of Word|`option + f`|
 |Go to Matching Bracket|`control + m`|
 |Move to Top/bottom|`⌘ + up/down`|
-|Move to First/Last Character of Line ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎|`⌘ + left/right arrow`|
+|Move to First/Last Character of Line ‎ ‎ ‎ ‎ ‎|`⌘ + left/right arrow`|
 
 
 |Finding code||
@@ -34,7 +34,7 @@
 |--|--|
 |Move Current Line Up or Down|`⌘ + control + up/down`|
 |Duplicate Current Line|`shift + ⌘ + D`|
-|Join Next Line to End of Current ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎|`⌘ + j`|
+|Join Next Line to End of Current ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎|`⌘ + j`|
 |Delete Line|`shift + control + k`|
 |Cut to End of Line|`control + k`|
 |Delete to Beginning of Word|`option + backspace`|
